@@ -10,7 +10,7 @@ body {
   justify-content: center;
 
   background-size: 1000px;
-  background-image: "PINKHOUR.JPEG";
+  background-image: url("https://raw.githubusercontent.com/KENZO577/forher/main/images/PINKHOUR.JPEG");
   background-position: center center;
 }
 
